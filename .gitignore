@@ -1,6 +1,7 @@
 *.zip
 *.log
 /target
+/target-eclipse
 /plugin.xml
 /testapps.config.groovy
 web-app
